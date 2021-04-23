@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Kaladin12/food-inv/static/css/main.9e60fb1b.chunk.css",
+    "main.js": "/Kaladin12/food-inv/static/js/main.0998f475.chunk.js",
+    "main.js.map": "/Kaladin12/food-inv/static/js/main.0998f475.chunk.js.map",
+    "runtime-main.js": "/Kaladin12/food-inv/static/js/runtime-main.c8b61f01.js",
+    "runtime-main.js.map": "/Kaladin12/food-inv/static/js/runtime-main.c8b61f01.js.map",
+    "static/css/2.e5a1b839.chunk.css": "/Kaladin12/food-inv/static/css/2.e5a1b839.chunk.css",
+    "static/js/2.27bf218f.chunk.js": "/Kaladin12/food-inv/static/js/2.27bf218f.chunk.js",
+    "static/js/2.27bf218f.chunk.js.map": "/Kaladin12/food-inv/static/js/2.27bf218f.chunk.js.map",
+    "static/js/3.b85f7f3e.chunk.js": "/Kaladin12/food-inv/static/js/3.b85f7f3e.chunk.js",
+    "static/js/3.b85f7f3e.chunk.js.map": "/Kaladin12/food-inv/static/js/3.b85f7f3e.chunk.js.map",
+    "index.html": "/Kaladin12/food-inv/index.html",
+    "static/css/2.e5a1b839.chunk.css.map": "/Kaladin12/food-inv/static/css/2.e5a1b839.chunk.css.map",
+    "static/css/main.9e60fb1b.chunk.css.map": "/Kaladin12/food-inv/static/css/main.9e60fb1b.chunk.css.map",
+    "static/js/2.27bf218f.chunk.js.LICENSE.txt": "/Kaladin12/food-inv/static/js/2.27bf218f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8b61f01.js",
+    "static/css/2.e5a1b839.chunk.css",
+    "static/js/2.27bf218f.chunk.js",
+    "static/css/main.9e60fb1b.chunk.css",
+    "static/js/main.0998f475.chunk.js"
+  ]
+}
